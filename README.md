@@ -5,7 +5,7 @@
 ![untitled](https://user-images.githubusercontent.com/68541168/167659169-0b171f1a-d8a5-4bd6-b183-b8cefb40e073.png)
 
 
-### Adjustments and improvements
+### Tasks
 
 The project is still under development and the next updates will focus on the following tasks:
 
