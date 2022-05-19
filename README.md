@@ -4,17 +4,6 @@
 
 ![untitled](https://user-images.githubusercontent.com/68541168/167659169-0b171f1a-d8a5-4bd6-b183-b8cefb40e073.png)
 
-
-### Tasks
-
-The project is still under development and the next updates will focus on the following tasks:
-
-- [x] Implementation of On-line Robust Constrained MPC using LMIs for the classical angular positioning system
-- [ ] Developing the theoretical details related to On-line Robust Constrained MPC using LMIs
-- [ ] Implementation of On-line Robust Constrained MPC using LMIs for the FES (Functional Electrical Stimulation)
-- [ ] Implementation of Off-line Robust Constrained MPC using LMIs
-- [ ] Developing the theoretical details related to Off-line Robust Constrained MPC using LMIs
-
 ## 💻 Requirements to start this project:
 
 Before starting, make sure you've met the following requirements:
